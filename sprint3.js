@@ -1,7 +1,7 @@
 var nomesGuardados = []
 var contador = 0;
 
-
+console.log()
 
 function cadastrodeusuario(){
 
